@@ -22,7 +22,12 @@
 
 .celda{
     height: 200px;
-    background-color: rgba(241, 183, 23, 0.493) ;
+    width: 3000px;
     text-align: center;
     padding: 50px;
+}
+
+.fila{
+    width: 1000px;
+    background-color: rgba(241, 183, 23, 0.493) ;
 }
