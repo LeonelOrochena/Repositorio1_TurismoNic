@@ -18,5 +18,11 @@
     color: cornsilk;
     background-color: coral;
     box-shadow: 0 3px 0 rgba(255, 255, 255, 0.3) 
+}
 
+.celda{
+    height: 200px;
+    background-color: rgba(241, 183, 23, 0.493) ;
+    text-align: center;
+    padding: 50px;
 }
