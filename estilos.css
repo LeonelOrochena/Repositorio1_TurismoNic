@@ -1,6 +1,6 @@
 #fondo{
     height: 1500px;
-    width: 1857px;
+    width: 1510px;
     margin: 0;
     padding: 0;
     background: url('../ProgWebGit/Recursos/Imagenes/turismo-nicaragua-1-scaled.jpg');
@@ -29,5 +29,10 @@
 
 .fila{
     width: 1000px;
-    background-color: rgba(241, 183, 23, 0.493) ;
+    background-color: rgba(66, 249, 255, 0.699) ;
+    border-radius: 10px;
+}
+
+#tabla{
+    margin: 0 auto;
 }
