@@ -1,8 +1,10 @@
-body{
+#fondo{
+    height: 2560px;
+    width: 1857px;
     margin: 0;
     padding: 0;
-    background: url(../ProgWebGit/Recursos/Imagenes/turismo-nicaragua-1-scaled.jpg);   
+    background: url('../ProgWebGit/Recursos/Imagenes/turismo-nicaragua-1-scaled.jpg');   
     background-size: cover;
     background-position: center;
-    margin-top: 500px; 
+    margin-top: 0px; 
 }
