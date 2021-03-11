@@ -1,10 +1,22 @@
 #fondo{
-    height: 2560px;
+    height: 1500px;
     width: 1857px;
     margin: 0;
     padding: 0;
-    background: url('../ProgWebGit/Recursos/Imagenes/turismo-nicaragua-1-scaled.jpg');   
-    background-size: cover;
-    background-position: center;
+    background: url('../ProgWebGit/Recursos/Imagenes/turismo-nicaragua-1-scaled.jpg');
     margin-top: 0px; 
+    background-repeat: no-repeat;
+}
+
+.botones{
+    text-decoration: none;
+    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 5px;
+    display: inline-block;
+    color: cornsilk;
+    background-color: coral;
+    box-shadow: 0 3px 0 rgba(255, 255, 255, 0.3) 
+
 }
