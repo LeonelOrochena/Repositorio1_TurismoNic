@@ -1,11 +1,9 @@
 #fondo{
-    height: 1500px;
     width: 1510px;
     margin: 0;
     padding: 0;
     background: url('../ProgWebGit/Recursos/Imagenes/turismo-nicaragua-1-scaled.jpg');
     margin-top: 0px; 
-    background-repeat: no-repeat;
 }
 
 .botones{
@@ -35,4 +33,9 @@
 
 #tabla{
     margin: 0 auto;
+}
+
+#img{
+    width: 40%;
+    height: 40%;
 }
