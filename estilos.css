@@ -13,11 +13,14 @@
 }
 
 #bnt{
-    padding-left: 343px;
+    padding-left: 150px;
     padding-top: 30px;
 }
 
 .botones{
+    width: 200px;
+    height: 20px;
+    text-align: center;
     text-decoration: none;
     border-radius: 3px;
     padding-left: 15px;
@@ -41,14 +44,28 @@
     background-color: rgba(248, 255, 255, 0.842) ;
     border-radius: 10px;
     font-family: sans-serif;
+    margin: auto;
 }
 
 #tabla{
     margin: 0 auto;
-    margin-top: 60px;
+    margin-top: 50px;
 }
 
 #img{
     width: 40%;
     height: 40%;
+}
+
+#repositorio{
+    width: 600px;
+    background-color: rgba(248, 255, 255, 0.842) ;
+    border-radius: 10px;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+#repo{
+    text-decoration: none;
+    color: maroon;
 }
