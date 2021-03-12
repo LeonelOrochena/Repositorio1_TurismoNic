@@ -4,6 +4,17 @@
     padding: 0;
     background: url('../ProgWebGit/Recursos/Imagenes/turismo-nicaragua-1-scaled.jpg');
     margin-top: 0px; 
+    padding-top: 0px;
+}
+
+#banner{
+    color: lavenderblush;
+    text-align: center;
+}
+
+#bnt{
+    padding-left: 343px;
+    padding-top: 30px;
 }
 
 .botones{
@@ -27,12 +38,14 @@
 
 .fila{
     width: 1000px;
-    background-color: rgba(66, 249, 255, 0.699) ;
+    background-color: rgba(248, 255, 255, 0.842) ;
     border-radius: 10px;
+    font-family: sans-serif;
 }
 
 #tabla{
     margin: 0 auto;
+    margin-top: 60px;
 }
 
 #img{
